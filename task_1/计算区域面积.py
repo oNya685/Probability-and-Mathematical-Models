@@ -18,6 +18,4 @@ for x in range(width):
 
 if other_count != 0:  
     yellow_ratio = round(yellow_count / other_count, 5)  
-    print(f"{yellow_ratio:.5f}")  
-
-print(0.18747)
+    print(f"{yellow_ratio:.5f}")
